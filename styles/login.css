@@ -1,0 +1,12 @@
+@import url(../../main.css);
+
+.container:hover {
+   background-color: var(--color-primario);
+}
+.principal{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
