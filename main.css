@@ -7,8 +7,9 @@
 	--fuente-color-primario: #000;
 	--fuente-color-secundario: #004173;
 	--fuente-color-secundarioDos:#001848;
-	--fuente-principal: '', ;
-	--fuente-secundaria: ;
+	--fuente-principal: "Barlow Semi Condensed", sans-serif;
+	--fuente-secundaria:"mandali-regular" ;
+	--fuente-complementaria: "albert-sans-<uniquifier>";
 	--fuente-tamanio-titulo: 2rem;
 	--fuente-tamanio-titulo-tablet: 2.5rem;
 	--fuente-tamanio-titulo-desktop: 3rem;
