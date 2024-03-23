@@ -13,8 +13,6 @@ html {
     box-sizing: border-box;
 }
 
-/* CORREGIR FUENTE*/
-
 body {
     color: var(--fuente-color-secundarioDos);
     font-family: "Arial", Segoe UI, Tahoma, sans-serifl, Helvetica Neue, Helvetica; 
