@@ -17,3 +17,15 @@
 .table tbody tr {
   margin-bottom: 20px;
 }
+
+.botonmedico{
+  background-color:  #0979b0;
+  padding: 10px;
+  color: white;
+  border-radius: 20px;
+  border: none;
+}
+
+.botonmedico:hover {
+background-color:   #004173;
+}
