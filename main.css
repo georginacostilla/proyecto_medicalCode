@@ -1,13 +1,15 @@
 :root {
-	--color-fondo: #;
-	--color-primario: #;
-	--color-secundario: #;
-	--color-secundarioDos: #;
-	--fuente-color-primario: #ffffff;
-	--fuente-color-secundario: #000;
-	--fuente-color-secundarioDos: #;
-	--fuente-principal: '', ;
-	--fuente-secundaria: ;
+	--color-fondo: #d6e8ee;
+	--color-primario: #ffffff;
+	--color-secundario: #7cdaf9;
+	--color-secundarioDos: #0cb7f2;
+	--color-secundarioTres: #0979b0;
+	--fuente-color-primario: #000;
+	--fuente-color-secundario: #004173;
+	--fuente-color-secundarioDos: #001848;
+	--fuente-principal: "Barlow Semi Condensed", sans-serif;
+	--fuente-secundaria: "mandali-regular";
+	--fuente-complementaria: "albert-sans-<uniquifier>";
 	--fuente-tamanio-titulo: 2rem;
 	--fuente-tamanio-titulo-tablet: 2.5rem;
 	--fuente-tamanio-titulo-desktop: 3rem;
@@ -38,11 +40,11 @@ body {
 .titulo {
 	font-family: var(--fuente-principal);
 	font-size: var(--fuente-tamanio-titulo);
-	color: var(--color-primario);
+	color: var(--fuente-color-secundarioDos);
 }
 
 .subtitulo {
-	color: var(--fuente-color-primario);
+	color: var(--fuente-color-secundario);
 	font-family: var(--fuente-secundaria);
 	font-size: var(--fuente-tamanio-subtitulo);
 }

@@ -1,0 +1,24 @@
+.botonmedico{
+    background-color:  #0979b0;
+    padding: 10px;
+    color: white;
+    border-radius: 20px;
+    border: none;
+  }
+  
+  .botonmedico:hover {
+  background-color:   #004173;
+  }
+
+  .botonagregar {
+    background-color: #0979b0;
+    border: none;
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+  }
+
+  .botonagregar:hover {
+    background-color: #0cb7f2;
+    transform: scale(1.1);
+  }
