@@ -1,46 +1,50 @@
-
 .navestilo {
-  background-color:  var(--color-secundarioTres)!important;
+  background-color: var(--color-secundarioDos) !important;
   max-height: 100px;
 }
 
 
 .logoestilo {
   max-width: 150px;
- height: auto;
+  height: auto;
 }
 
 .prueba {
   background-color: var(--color-secundarioTres);
 }
 
+.botonbuscar {
+  background-color: var(--color-fondo);
+}
 
-
+.botonbuscar:hover {
+  background-color: green;
+}
 
 
 @media (max-width: 767.98px) {
 
   .navestilo {
-      max-height: 150px;
+    max-height: 150px;
   }
 
-.login-mobile {
-  
-  text-align: center !important; 
-  margin-top: 10px;
-  
-}
-.dropdown-menu {
-  width: 100%;
-  padding: 0;
-}
+  .login-mobile {
 
-.dropdown-menu a {
-  display: block;
-  width: 100%;
-  text-align: center;
-  padding: 2px;
-}
+    text-align: center !important;
+    margin-top: 10px;
 
+  }
+
+  .dropdown-menu {
+    width: 100%;
+    padding: 0;
+  }
+
+  .dropdown-menu a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 2px;
+  }
 
 }
