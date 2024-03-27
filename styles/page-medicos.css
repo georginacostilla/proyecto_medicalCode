@@ -1,25 +1,20 @@
-
-
-.navestilo {
-    background-color: aqua !important;
-}
-
 .botonlogin {
-    margin-right: 40px;
-    margin-left: 30px;
-    margin: 20px;
+  margin-right: 40px;
+  margin-left: 30px;
+  margin: 20px;
 }
 
 .table td,
 .table th {
   padding: 12px;
 }
+
 .table tbody tr {
   margin-bottom: 20px;
 }
 
-.botonmedico{
-  background-color:  #0979b0;
+.botonmedico {
+  background-color: var(--color-secundarioTres);
   padding: 10px;
   color: white;
   border-radius: 20px;
@@ -27,9 +22,9 @@
 }
 
 .botonmedico:hover {
-background-color:   #004173;
+  background-color: var(--fuente-color-secundario);
 }
 
-.tablarelleno {  
+.tablarelleno {
   background-color: var(--color-secundarioDos) !important;
 }
