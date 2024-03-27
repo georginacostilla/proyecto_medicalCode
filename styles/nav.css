@@ -1,6 +1,6 @@
 
 .navestilo {
-  background-color: aqua !important;
+  background-color: aqua!important;
   max-height: 100px;
 }
 
@@ -9,6 +9,12 @@
   max-width: 150px;
  height: auto;
 }
+
+.prueba {
+  background-color: var(--color-secundarioTres);
+}
+
+
 
 
 
