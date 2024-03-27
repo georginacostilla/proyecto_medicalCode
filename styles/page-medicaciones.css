@@ -1,5 +1,5 @@
 .botonmedico{
-    background-color:  #0979b0;
+    background-color: var(--color-secundarioTres);
     padding: 10px;
     color: white;
     border-radius: 20px;
@@ -7,11 +7,11 @@
   }
   
   .botonmedico:hover {
-  background-color:   #004173;
+  background-color: var(	--fuente-color-secundario);
   }
 
   .botonagregar {
-    background-color: #0979b0;
+    background-color: var(--color-secundarioTres);
     border: none;
     padding: 20px;
     color: white;
@@ -19,7 +19,7 @@
   }
 
   .botonagregar:hover {
-    background-color: #0cb7f2;
+    background-color: var(--color-secundarioDos);
     transform: scale(1.1);
   }
 
