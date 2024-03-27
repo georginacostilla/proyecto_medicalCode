@@ -29,3 +29,7 @@
 .botonmedico:hover {
 background-color:   #004173;
 }
+
+.tablarelleno {  
+  background-color: var(--color-secundarioDos) !important;
+}
