@@ -6,7 +6,7 @@
 }
 
 .botonenviarlogin {
-    background-color:  #0979b0;
+    background-color: var(--color-secundarioTres);
     width: 250px;
     height: 50px;
     border-radius: 20px;
@@ -16,14 +16,8 @@
 }
 
 .botonenviarlogin:hover {
-    background-color:  #0cb7f2;
+    background-color: var(--color-secundarioDos);
     transform: scale(1.1)
 }
 
 
-
-
-.tituloperfil {
-    margin-bottom: 30px;
-  }
-  
