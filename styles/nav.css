@@ -1,6 +1,6 @@
 
 .navestilo {
-  background-color: aqua!important;
+  background-color:  var(--color-secundarioTres)!important;
   max-height: 100px;
 }
 
